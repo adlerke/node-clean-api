@@ -1,0 +1,11 @@
+{
+  "name": "node-clean-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/adlerke/node-clean-api.git",
+  "author": "Adler Kesley <adlerbassk@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^16.0.3"
+  }
+}
